@@ -7,7 +7,7 @@ const submitSound = document.getElementById("submit-sound");
 let timeLeft = 45 * 60; // 45 minutes in seconds
 let timerId = null;
 
-const uniqueKey = "Assessemt";
+const uniqueKey = "Assessment";
 
 // Helper functions for localStorage
 function saveToLocalStorage(key, value) {
