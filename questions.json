@@ -1,0 +1,430 @@
+{
+  "heading": "Assessemt",
+  "topics": [
+    {
+      "heading": "Assessemt",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Leo’s watch shows 1725. What time is it 20 minutes later, in a 12-hour format?",
+          "options": [
+            { "text": "5:45 am" },
+            { "text": "5:45 pm" },
+            { "text": "6:05 pm" },
+            { "text": "6:25 pm" },
+            { "text": "7:25 pm" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Sara needs 900 grams of flour to bake a cake. She puts a metal bowl of flour on the scale.<br><img width='30%' src='./assests/images/1.png'><br> The bowl weighs 260 grams when empty. How much more flour does she need?",
+          "options": [
+            { "text": "100 g" },
+            { "text": "110 g" },
+            { "text": "160 g" },
+            { "text": "200 g" },
+            { "text": "300 g" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 3,
+          "question": "Maya has red, blue, orange, and purple marbles in a bag. There are twice as many orange marbles as red marbles. The probability of picking a red marble is 0.15, and a blue marble is 0.35. What is the probability of picking a purple marble?",
+          "options": [
+            { "text": "0.05" },
+            { "text": "0.20" },
+            { "text": "0.15" },
+            { "text": "0.25" },
+            { "text": "0.30" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "The graph shows the average monthly snowfall in Aspen for one year.<br><img width='40%' src='./assests/images/2.png'><br> Here are three statements about the graph:<br> 1. The snowfall in January was more than twice the snowfall in March.<br> 2. The difference in snowfall between November and October was 6 cm.<br> 3. The total snowfall from February to April was more than half a metre.<br><br>Which of these statements are correct?",
+          "options": [
+            { "text": "Statement 1 only" },
+            { "text": "Statement 2 only" },
+            { "text": "Statements 1 and 2 only" },
+            { "text": "Statements 2 and 3 only" },
+            { "text": "Statements 1, 2 and 3" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 5,
+          "question": "The time in Seoul is 8 hours ahead of the time in Berlin. The time in Bogotá is 6 hours behind Berlin. When it is 6:00 pm in Bogotá, what time is it in Seoul?",
+          "options": [
+            { "text": "12 am" },
+            { "text": "10 am" },
+            { "text": "12 pm" },
+            { "text": "8 am" },
+            { "text": "2 am" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 6,
+          "question": "Jamal has a spinner split into four equal sections.<br><img width='40%' src='./assests/images/3.png'><br> He spins and it lands on 6. Now Priya spins the same spinner. Which of these statements are correct?<br> X: The probability that Priya spins a 6 is ¼<br> Y: The probability that Priya’s number is less than Jamal’s is ½ <br>Z: The probability that their scores add up to more than 9 is ¾",
+          "options": [
+            { "text": "None of them" },
+            { "text": "Statements X and Y only" },
+            { "text": "Statements X and Z only" },
+            { "text": "Statements Y and Z only" },
+            { "text": "All three statements" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "Ravi has a box of 40 coins: some silver, some gold, and the rest bronze.<br> There are 18 silver coins.<br> The chance of picking a gold coin randomly is 1 out of 5. How many bronze coins are in the box?",
+          "options": [
+            { "text": "2" },
+            { "text": "4" },
+            { "text": "6" },
+            { "text": "8" },
+            { "text": "14" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 8,
+          "question": "The graph shows the temperature over 9 hours during a hiking trip.<br><img width='45%' src='./assests/images/4.png'><br> Here are three statements:<br> 1. The temperature was 10°C at four different times.<br> 2. The temperature rose more between hours 1 and 3 than it dropped between hours 4 and 6.<br> 3. The lowest temperature recorded was 5°C.",
+          "options": [
+            { "text": "None of the statements" },
+            { "text": "Statements 1 and 2 only" },
+            { "text": "Statements 1 and 3 only" },
+            { "text": "Statements 2 and 3 only" },
+            { "text": "All three statements" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 9,
+          "question": "A pyramid with an octagonal base is made from cardboard. What is the sum of its number of faces, edges, and vertices?",
+          "options": [
+            { "text": "22" },
+            { "text": "30" },
+            { "text": "34" },
+            { "text": "38" },
+            { "text": "40" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "Lena rotates a regular pentagon anti-clockwise. The diagram shows the starting position and the rotated position, respectively.<br><img width='40%' src='./assests/images/5.png'><br> Through what angle is the pentagon rotated anti-clockwise?",
+          "options": [
+            { "text": "72°" },
+            { "text": "144°" },
+            { "text": "216°" },
+            { "text": "288°" },
+            { "text": "360°" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 11,
+          "question": "Liam lives in Cape Town and travels to Tokyo.<br> He leaves Cape Town on Thursday at 1400 local time on a 9-hour flight to Dubai, where he stays for 1 day. Then he takes a 10-hour flight to Tokyo.<br> Tokyo is 7 hours ahead of Cape Town. What time is it in Tokyo when Liam arrives?",
+          "options": [
+            { "text": "Thursday at 1000" },
+            { "text": "Friday at 0800" },
+            { "text": "Friday at 1200" },
+            { "text": "Saturday at 1600" },
+            { "text": "Sunday at 0000" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 12,
+          "question": "Ray’s sister drew three incomplete cube nets, each with only five squares. Ray wants to know which of them can become valid cube nets by adding just one square. <br><img width='40%' src='./assests/images/6.png'><br>Which of the three diagrams can be made into a cube net by adding one square?",
+          "options": [
+            { "text": "Diagram 1 only" },
+            { "text": "Diagram 2 only" },
+            { "text": "Diagram 3 only" },
+            { "text": "Diagrams 1 and 2 only" },
+            { "text": "Diagrams 2 and 3 only" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 13,
+          "question": "Leo creates a sequence of whole numbers using this rule:<ul><li> Choose the first 3 numbers (any).</li><li> After that every new number is the sum of the three previous numbers.</li></ul> Here is Leo’s sequence with missing numbers: 3, X, 1, Y, 7, Z.<br> What is the value of Z?",
+          "options": [
+            { "text": "9" },
+            { "text": "10" },
+            { "text": "11" },
+            { "text": "12" },
+            { "text": "13" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 14,
+          "question": "Nina builds two shapes from identical rectangular strips. She makes shape A, then adds one strip to create shape B.<br><img width='40%' src='./assests/images/7.png'><br>The perimeter of shape A is 56 cm.<br> The perimeter of shape B is 70 cm.<br> What is the width of each of Nina’s rectangles?",
+          "options": [
+            { "text": "6 cm" },
+            { "text": "7 cm" },
+            { "text": "8 cm" },
+            { "text": "14 cm" },
+            { "text": "18 cm" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "Julia earns points in a game:<br> Every star gives the same number of points.<br> Every heart gives the same number of points (but different from the star).<br> She scores:<br><img width='40%' src='./assests/images/8.png'><br> How many points does she get for 1 star and 1 heart?<br><img width='20%' src='./assests/images/9.png'><br>",
+          "options": [
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "6" },
+            { "text": "7" },
+            { "text": "8" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "Ravi is painting a square wall that is 4 metres on each side. The paint costs $30 per square metre. Which calculation gives the total cost of painting the wall (in dollars)?",
+          "options": [
+            { "text": "30 × 8" },
+            { "text": "30 × 16" },
+            { "text": "30 ÷ 8" },
+            { "text": "30 ÷ 16" },
+            { "text": "30 ÷ 4" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "<br><img width='40%' src='./assests/images/10.png'><br>If the pattern in the three triangles above continues into the next three triangles below, then Y = ?<br><img width='40%' src='./assests/images/11.png'><br>",
+          "options": [
+            { "text": "5" },
+            { "text": "6" },
+            { "text": "7" },
+            { "text": "8" },
+            { "text": "9" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 18,
+          "question": "At Mia and Jacob’s anniversary party, 150 of the guests were Jacob’s family and friends. This was 75% of all the guests. How many guests were there in total?",
+          "options": [
+            { "text": "175" },
+            { "text": "180" },
+            { "text": "200" },
+            { "text": "225" },
+            { "text": "300" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "Two shapes, A and B, are drawn on a grid made of unit squares.<br><img width='40%' src='./assests/images/12.png'><br> Which of these statements is/are correct?<br>1. Shape A has a larger area than shape B.<br>2. Shape B has a larger perimeter than shape A.<br>3. Both shapes have the same area.<br>4. Both shapes have the same perimeter.",
+          "options": [
+            { "text": "Statement 1 only" },
+            { "text": "Statement 2 only" },
+            { "text": "Statements 3 and 4 only" },
+            { "text": "Statements 1 and 4 only" },
+            { "text": "Statements 3 only" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "A large box holds 60 pencils. Two large boxes contain the same number of pencils as 3 medium boxes. Three medium boxes contain the same number of pencils as 5 small boxes.<br><br> How many pencils are in one small box?",
+          "options": [
+            { "text": "14" },
+            { "text": "16" },
+            { "text": "18" },
+            { "text": "20" },
+            { "text": "24" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 21,
+          "question": "The numbers 1, 2, 3, 4, 5, 6, 8, 10 and 12 are arranged around this star such that the sum along each straight line is equal. Some of the numbers are missing.<br><img width='40%' src='./assests/images/13.png'><br> The number missing at Z is:",
+          "options": [
+            { "text": "1" },
+            { "text": "2" },
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "11" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 22,
+          "question": "A group of 50 students were asked how many books they read last month. It’s known that twice as many students read 2 books as those who read 1.<br><img width='40%' src='./assests/images/14.png'><br> How many students read 2 books?",
+          "options": [
+            { "text": "6" },
+            { "text": "8" },
+            { "text": "10" },
+            { "text": "12" },
+            { "text": "16" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 23,
+          "question": "A piece of cardboard is folded to make eight identical panels. The cardboard is bent along the folds and joined to form an octagonal tube.<br><img width='40%' src='./assests/images/15.png'><br> When the tube is formed, the panel numbered 8 is opposite the panel numbered:",
+          "options": [
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "6" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 24,
+          "question": "When Kevin’s aunt landed in Melbourne from Paris, it was 6:00 am on Monday. Her total travel time, including layovers, was 26 hours. She had taken off from Paris at 9:00 am on Sunday (Paris time).<br><br> What is the time difference between Paris and Melbourne?",
+          "options": [
+            { "text": "Paris time is 10 hours ahead of Melbourne time." },
+            { "text": "Paris time is 5 hours ahead of Melbourne time." },
+            { "text": "Paris time is 15 hours behind Melbourne time." },
+            { "text": "Paris time is 15 hours ahead of Melbourne time." },
+            { "text": "Paris time is 5 hours behind Melbourne time." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 25,
+          "question": "Jacob and Leila are looking at a tower of blocks from opposite sides.<br><img width='40%' src='./assests/images/16.png'><br> What does Leila see?",
+          "options": [
+            { "image": "./assests/option/1.png" },
+            { "image": "./assests/option/2.png" },
+            { "image": "./assests/option/3.png" },
+            { "image": "./assests/option/4.png" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 26,
+          "question": "Sam owns 4 different jackets and 3 different pairs of jeans. Lena owns 2 different jackets and 5 different pairs of jeans. Each person can create one outfit by choosing 1 jacket and 1 pair of jeans. Who has more outfit combinations, and by how many?",
+          "options": [
+            { "text": "Sam has 1 more outfit than Lena." },
+            { "text": "Lena has 2 more outfits than Sam." },
+            { "text": "Sam has 2 more outfits than Lena." },
+            { "text": "They have the same number of outfits." },
+            { "text": "Lena has 1 more outfit than Sam." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 27,
+          "question": "Three bottles contain different amounts of juice.<br> Bottle A holds 2 L 180 mL.<br> Bottle B holds 1 L 590 mL.<br> Bottle C holds 1 L 250 mL.<br> What is the total volume of juice when all bottles are poured together?",
+          "options": [
+            { "text": "4 L 20 mL" },
+            { "text": "4 L 920 mL" },
+            { "text": "5 L" },
+            { "text": "5 L 20 mL" },
+            { "text": "6 L 20 mL" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 28,
+          "question": "Zara uses some kitchen scales, but the pointer starts above 0 when empty.<br><img width='30%' src='./assests/images/17.png'><br> When she places two same packets of rice on the scales, the pointer makes less than a full turn.<br><img width='30%' src='./assests/images/18.png'><br> What is the weight of one packet?",
+          "options": [
+            { "text": "16 kg" },
+            { "text": "17 kg" },
+            { "text": "18 kg" },
+            { "text": "19 kg" },
+            { "text": "20 kg" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 29,
+          "question": "Which of the following are true?<br><br>X: 2⁄3 + 3⁄4 is more than 1<br>Y: 9⁄10 − 4⁄5 is less than 1⁄10<br>Z: 5⁄6 is more than 4⁄5",
+          "options": [
+            { "text": "Statement X only" },
+            { "text": "Statement Y only" },
+            { "text": "Statements X and Y only" },
+            { "text": "Statements Y and Z only" },
+            { "text": "Statements X and Z only" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 30,
+          "question": "Lucas is drawing a shape with one line of symmetry.<br><img width='40%' src='./assests/images/19.png'><br> He starts drawing the shape as follows.<br><img width='40%' src='./assests/images/20.png'><br> What is the measure of angle Z?",
+          "options": [
+            { "text": "50°" },
+            { "text": "70°" },
+            { "text": "90°" },
+            { "text": "100°" },
+            { "text": "120°" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 31,
+          "question": "In ancient measurements:<ul><li> 12 digits make 1 span</li><li> 3 spans make 1 cubit</li><li> 6 cubits make 1 rod</li></ul> How many digits make 1 rod?",
+          "options": [
+            { "text": "36" },
+            { "text": "72" },
+            { "text": "108" },
+            { "text": "144" },
+            { "text": "216" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 32,
+          "question": "Two prices are shown below, with each symbol representing a hidden digit.<br><img width='40%' src='./assests/images/21.png'><br> What is the greatest possible difference between these prices?",
+          "options": [
+            { "text": "$19.68" },
+            { "text": "$29.22" },
+            { "text": "$29.71" },
+            { "text": "$29.88" },
+            { "text": "$29.89" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 33,
+          "question": "The chart below shows the proportion of different gases in a sealed chamber, measured at various temperatures.<br><img width='40%' src='./assests/images/22.png'><br> Which of the following statements is/are correct?<br>X: At every temperature, the proportion of carbon dioxide is greater than that of argon.<br>Y: Hydrogen and argon have the same proportion at more than one temperature.<br>Z: At 200°C, the chamber is filled with carbon dioxide and hydrogen in nearly equal amounts.",
+          "options": [
+            { "text": "None of them" },
+            { "text": "Statement X only" },
+            { "text": "Statement Y only" },
+            { "text": "Statement Z only" },
+            { "text": "Statements X, Y and Z" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 34,
+          "question": "<br><img width='40%' src='./assests/images/23.png'><br>The given can and the paint weighs 120 g when it is one-quarter full. When it is half full, the can and the paint weigh 170 g. What will be the total weight of the can and the paint when it is three-quarters full?",
+          "options": [
+            { "text": "200 g" },
+            { "text": "210 g" },
+            { "text": "220 g" },
+            { "text": "230 g" },
+            { "text": "240 g" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 35,
+          "question": "Liam builds a cube using 27 small identical cubic blocks.<br><img width='40%' src='./assests/images/24.png'><br> If he can see the cube from all sides, how many of the smaller blocks are completely hidden from view?",
+          "options": [
+            { "text": "1" },
+            { "text": "5" },
+            { "text": "7" },
+            { "text": "8" },
+            { "text": "12" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    }
+  ]
+}
